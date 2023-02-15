@@ -1,0 +1,39 @@
+* {
+    color: blue;
+}
+
+p, span {
+        color: red;
+        width: 300px;
+    }
+
+
+h1 {
+    font-family: 'Padyakke Expanded One', cursive;
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: grey;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_parrafo {
+    color: yellow;
+    font-size: 23px;
+    border: 1px solid orange;
+}
+
+.esteesmiclase {
+    font-weight: bold;
+    color: lightblue;
+}
